@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-370818-now-experience-dashboard": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "My Component",
+				"icon": "document-outline",
+				"description": "A description of my component",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_370818_now_exp_0"
+}
